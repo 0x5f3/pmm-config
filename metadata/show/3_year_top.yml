@@ -1,0 +1,168 @@
+## 
+##  "":
+##    template: {
+##                    name: year, 
+##                    release_date: "",
+##                    title_type: "tv_series,tv_special,tv_miniseries", 
+##                    user_rating: "5.0,10.0", 
+##                    votes: "10000,", 
+##                    languages: "en",
+##                    }
+##
+
+templates:
+  year:
+    sort_title: "+3_<<num>>_<<collection_name>>"
+    limit: 150
+    sync_mode: sync
+    collection_order: custom
+    collection_mode: hide
+    visible_home: false
+    visible_shared: false
+    visible_library: false
+    delete_not_scheduled: false
+    cache_builders: 6
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=<<title_type>>&release_date=<<release_date>>&user_rating=<<user_rating>>&num_votes=<<votes>>,&languages=<<languages>>&user_rating,desc&count=250
+      limit: 250
+      
+collections:
+  "Top Rated of 2022":
+    summary: "Top rated shows in 2022"
+    #file_poster: assets/decades/year_2022.jpg
+    schedule: weekly
+    template: {
+                    name: year, 
+                    num: 0,
+                    release_date: "2022-01-01,2022-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of 2021":
+    summary: "Top rated shows in 2021"
+    #file_poster: assets/decades/year_2021.jpg
+    schedule: monthly
+    template: {
+                    name: year, 
+                    num: 1,
+                    release_date: "2021-01-01,2021-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of 2020":
+    summary: "Top rated shows in 2020"
+    #file_poster: assets/decades/year_2020.jpg
+    schedule: monthly
+    template: {
+                    name: year, 
+                    num: 2,
+                    release_date: "2020-01-01,2020-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of 2019":
+    summary: "Top rated shows in 2019"
+    #file_poster: assets/decades/year_2019.jpg
+    schedule: monthly
+    template: {
+                    name: year, 
+                    num: 3,
+                    release_date: "2019-01-01,2019-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of 2018":
+    summary: "Top rated shows in 2018"
+    #file_poster: assets/decades/year_2018.jpg
+    schedule: monthly
+    template: {
+                    name: year, 
+                    num: 4,
+                    release_date: "2018-01-01,2018-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of 2017":
+    summary: "Top rated shows in 2017"
+    #file_poster: assets/decades/year_2017.jpg
+    schedule: monthly
+    template: {
+                    name: year, 
+                    num: 5,
+                    release_date: "2017-01-01,2017-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of 2016":
+    summary: "Top rated shows in 2016"
+    #file_poster: assets/decades/year_2016.jpg
+    schedule: monthly
+    template: {
+                    name: year, 
+                    num: 6,
+                    release_date: "2016-01-01,2016-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of 2015":
+    summary: "Top rated shows in 2015"
+    #file_poster: assets/decades/year_2015.jpg
+    schedule: monthly
+    template: {
+                    name: year, 
+                    num: 7,
+                    release_date: "2015-01-01,2015-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of 2014":
+    summary: "Top rated shows in 2014"
+    #file_poster: assets/decades/year_2014.jpg
+    schedule: monthly
+    template: {
+                    name: year, 
+                    num: 8,
+                    release_date: "2014-01-01,2014-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of 2013":
+    summary: "Top rated shows in 2013"
+    #file_poster: assets/decades/year_2013.jpg
+    schedule: monthly
+    template: {
+                    name: year, 
+                    num: 9,
+                    release_date: "2013-01-01,2013-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en"
+                    }

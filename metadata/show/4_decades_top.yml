@@ -1,0 +1,154 @@
+## 
+##  "":
+##    template: {
+##                    name: decade, 
+##                    release_date: "",
+##                    title_type: "tv_series,tv_special,tv_miniseries", 
+##                    user_rating: "5.0,10.0", 
+##                    votes: "10000,", 
+##                    languages: "en",
+##                    }
+##
+
+templates:
+  decade:
+    sort_title: "+4_<<num>>_<<collection_name>>"
+    limit: 130
+    sync_mode: sync
+    collection_order: custom
+    collection_mode: hide
+    visible_home: false
+    visible_shared: false
+    visible_library: false
+    delete_not_scheduled: false
+    cache_builders: 6
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=<<title_type>>&release_date=<<release_date>>&user_rating=<<user_rating>>&num_votes=<<votes>>,&languages=<<languages>>&user_rating,desc&count=250
+      limit: 250
+      
+collections:
+  "Top Rated of the 1940s":
+    summary: "Top rated shows of the 1940s"
+    #file_poster: assets/year/decade_1940s.jpg
+    schedule: monthly
+    template: {
+                    name: decade, 
+                    num: 9,
+                    release_date: "1940-01-01,1949-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "100,", 
+                    languages: "en"
+                    }
+
+  "Top Rated of the 1950s":
+    summary: "Top rated shows of the 1950s"
+    #file_poster: assets/year/decade_1950s".jpg
+    schedule: monthly
+    template: {
+                    name: decade, 
+                    num: 8,
+                    release_date: "1950-01-01,1959-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "100,", 
+                    languages: "en"
+                    }
+
+  "Top Rated of the 1960s":
+    summary: "Top rated shows of the 1960s"
+    #file_poster: assets/year/decade_1960s.jpg
+    schedule: monthly
+    template: {
+                    name: decade, 
+                    num: 7,
+                    release_date: "1960-01-01,1969-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "100,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of the 1970s":
+    summary: "Top rated shows of the 1970s"
+    #file_poster: assets/year/decade_1970s.jpg
+    schedule: monthly
+    template: {
+                    name: decade, 
+                    num: 6,
+                    release_date: "1970-01-01,1979-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "100,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of the 1980s":
+    summary: "Top rated shows of the 1980s"
+    #file_poster: assets/year/decade_1980s.jpg
+    schedule: monthly
+    template: {
+                    name: decade, 
+                    num: 5,
+                    release_date: "1980-01-01,1989-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "100,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of the 1990s":
+    summary: "Top rated shows of the 1990s"
+    #file_poster: assets/year/decade_1990s.jpg
+    schedule: monthly
+    template: {
+                    name: decade, 
+                    num: 4,
+                    release_date: "1990-01-01,1999-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "100,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of the 2000s":
+    summary: "Top rated shows of the 2000s"
+    #file_poster: assets/year/decade_2000s.jpg
+    schedule: monthly
+    template: {
+                    name: decade, 
+                    num: 3,
+                    release_date: "2000-01-01,2009-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "1000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of the 2010s":
+    summary: "Top rated shows of the 2010s"
+    #file_poster: assets/year/decade_2010s.jpg
+    schedule: monthly
+    template: {
+                    name: decade, 
+                    num: 2,
+                    release_date: "2010-01-01,2019-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "1000,", 
+                    languages: "en"
+                    }
+                    
+  "Top Rated of the 2020s":
+    summary: "Top rated shows of the 2020s"
+    #file_poster: assets/year/decade_2020s.jpg
+    schedule: weekly
+    template: {
+                    name: decade, 
+                    num: 1,
+                    release_date: "2020-01-01,2029-12-31",
+                    title_type: "tv_series,tv_special,tv_miniseries", 
+                    user_rating: "5.0,10.0", 
+                    votes: "1000,", 
+                    languages: "en"
+                    }

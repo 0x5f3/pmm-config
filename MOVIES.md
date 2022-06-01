@@ -1,0 +1,176 @@
+- Trending Movies
+- Popular Movies
+- Top Rated Movies
+- Most Watched Daily
+- Most Watched Weekly
+- Most Watched Monthly
+- Most Watched Yearly
+
+- Oscar Winners
+- Oscar Nominees
+- Golden Globes Winners
+- Golden Globes Nominees
+- BAFTA Winners
+- Berlinale Winners
+- Cannes Film Festival Winners
+- European Film Award Winners
+- Sundance Winners
+- Venice Film Festival Winners
+
+- Top Rated of 2022
+- Top Rated of 2021
+- Top Rated of 2020
+- Top Rated of 2019
+- Top Rated of 2018
+- Top Rated of 2017
+- Top Rated of 2016
+- Top Rated of 2015
+- Top Rated of 2014
+- Top Rated of 2013
+
+- Top Rated of the 2020s
+- Top Rated of the 2010s
+- Top Rated of the 2000s
+- Top Rated of the 1990s
+- Top Rated of the 1980s
+- Top Rated of the 1970s
+- Top Rated of the 1960s
+- Top Rated of the 1950s
+- Top Rated of the 1940s
+
+- Popular in Action
+- Popular in Adventure
+- Popular in Animation
+- Popular in Biography
+- Popular in Comedy
+- Popular in Drama
+- Popular in Family
+- Popular in Fantasy
+- Popular in History
+- Popular in Horror
+- Popular in Music
+- Popular in Musicals
+- Popular in Mystery
+- Popular in Romance
+- Popular in Sci-Fi
+- Popular in Thriller
+- Popular in War
+- Popular in Western
+
+- Top Rated in Action
+- Top Rated in Adventure
+- Top Rated in Animation
+- Top Rated in Biography
+- Top Rated in Comedy
+- Top Rated in Drama
+- Top Rated in Family
+- Top Rated in Fantasy
+- Top Rated in History
+- Top Rated in Horror
+- Top Rated in Music
+- Top Rated in Musicals
+- Top Rated in Mystery
+- Top Rated in Romance
+- Top Rated in Sci-Fi
+- Top Rated in Thriller
+- Top Rated in War
+- Top Rated in Western
+
+- Top Rated in  Absurdism
+- Top Rated in  Aliens
+- Top Rated in  Alternate History
+- Top Rated in  Anti-Hero
+- Top Rated in  Apocalypse
+- Top Rated in  Artificial Intelligence
+- Top Rated in  Assassins
+- Top Rated in  Betrayal
+- Top Rated in  Black Comedy
+- Top Rated in  Boxing
+- Top Rated in  Cannibals
+- Top Rated in  Caper
+- Top Rated in  Christmas
+- Top Rated in  Comics
+- Top Rated in  Coming Of Age
+- Top Rated in  Con Artists
+- Top Rated in  Costume Drama
+- Top Rated in  Courtroom
+- Top Rated in  Cyberpunk
+- Top Rated in  Dark Fantasy
+- Top Rated in  Detective
+- Top Rated in  Disaster
+- Top Rated in  Dragons
+- Top Rated in  Dystopian
+- Top Rated in  Epics
+- Top Rated in  Espionage
+- Top Rated in  Experimental
+- Top Rated in  Fairytale
+- Top Rated in  Found Footage
+- Top Rated in  Fugitives
+- Top Rated in  Gangster
+- Top Rated in  Ghosts
+- Top Rated in  Gothic
+- Top Rated in  Heartbreak
+- Top Rated in  Heists
+- Top Rated in  Historical Event
+- Top Rated in  Hostage
+- Top Rated in  Martial Arts
+- Top Rated in  Medical
+- Top Rated in  Medieval
+- Top Rated in  Melodrama
+- Top Rated in  Military
+- Top Rated in  Mindfuck
+- Top Rated in  Mockumentary
+- Top Rated in  Monsters
+- Top Rated in  Mythology
+- Top Rated in  Ninjas
+- Top Rated in  Novel
+- Top Rated in  Occult
+- Top Rated in  Outer Space
+- Top Rated in  Outlaw
+- Top Rated in  Pandemic
+- Top Rated in  Paranormal
+- Top Rated in  Period Drama
+- Top Rated in  Philosophical
+- Top Rated in  Political
+- Top Rated in  Post Apocalyptic
+- Top Rated in  Prison
+- Top Rated in  Psychedelic
+- Top Rated in  Psychological
+- Top Rated in  Religous
+- Top Rated in  Revenge
+- Top Rated in  Robots
+- Top Rated in  Romantic Comedy
+- Top Rated in  Romantic Drama
+- Top Rated in  Satire
+- Top Rated in  Serial Killers
+- Top Rated in  Slasher
+- Top Rated in  Space Opera
+- Top Rated in  Spaghetti Western
+- Top Rated in  Splatter
+- Top Rated in  Steampunk
+- Top Rated in  Stoner
+- Top Rated in  Superhero
+- Top Rated in  Supernatural
+- Top Rated in  Surrealism
+- Top Rated in  Survival
+- Top Rated in  Swashbuckler
+- Top Rated in  Sword Sorcery
+- Top Rated in  Time Travel
+- Top Rated in  Treasure Hunt
+- Top Rated in  True Story
+- Top Rated in  Urban Fantasy
+- Top Rated in  Utopian
+- Top Rated in  Vampires
+- Top Rated in  Video Game
+- Top Rated in  Werewolves
+- Top Rated in  Whodunit
+- Top Rated in  Wizardry Witchcraft
+- Top Rated in  World War
+- Top Rated in  Zombies
+
+- Valentine's Day Movies
+- Halloween Movies
+- Christmas Movies
+- New Year's Eve Movies
+
+- TMDb Collections

@@ -1,0 +1,11 @@
+default_template:
+  tmdb_collection_details: +9_<<tmdb_collection>>
+  minimum_items: 2
+  delete_not_scheduled: false
+  schedule: weekly
+
+dynamic_collections:
+  TMDb Collections:
+    type: tmdb_collection
+    remove_suffix: Collection
+    remove_prefix: The
