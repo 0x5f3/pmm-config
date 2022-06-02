@@ -30,7 +30,7 @@ collections:
   "Top Rated of the 1940s":
     summary: "Top rated shows of the 1940s"
     #file_poster: assets/year/decade_1940s.jpg
-    schedule: monthly
+    schedule: weekly(wednesday)
     template: {
                     name: decade, 
                     num: 9,
@@ -44,7 +44,7 @@ collections:
   "Top Rated of the 1950s":
     summary: "Top rated shows of the 1950s"
     #file_poster: assets/year/decade_1950s".jpg
-    schedule: monthly
+    schedule: weekly(wednesday)
     template: {
                     name: decade, 
                     num: 8,
@@ -58,7 +58,7 @@ collections:
   "Top Rated of the 1960s":
     summary: "Top rated shows of the 1960s"
     #file_poster: assets/year/decade_1960s.jpg
-    schedule: monthly
+    schedule: weekly(wednesday)
     template: {
                     name: decade, 
                     num: 7,
@@ -72,7 +72,7 @@ collections:
   "Top Rated of the 1970s":
     summary: "Top rated shows of the 1970s"
     #file_poster: assets/year/decade_1970s.jpg
-    schedule: monthly
+    schedule: weekly(wednesday)
     template: {
                     name: decade, 
                     num: 6,
@@ -86,7 +86,7 @@ collections:
   "Top Rated of the 1980s":
     summary: "Top rated shows of the 1980s"
     #file_poster: assets/year/decade_1980s.jpg
-    schedule: monthly
+    schedule: weekly(wednesday)
     template: {
                     name: decade, 
                     num: 5,
@@ -100,7 +100,7 @@ collections:
   "Top Rated of the 1990s":
     summary: "Top rated shows of the 1990s"
     #file_poster: assets/year/decade_1990s.jpg
-    schedule: monthly
+    schedule: weekly(wednesday)
     template: {
                     name: decade, 
                     num: 4,
@@ -114,7 +114,7 @@ collections:
   "Top Rated of the 2000s":
     summary: "Top rated shows of the 2000s"
     #file_poster: assets/year/decade_2000s.jpg
-    schedule: monthly
+    schedule: weekly(wednesday)
     template: {
                     name: decade, 
                     num: 3,
@@ -128,7 +128,7 @@ collections:
   "Top Rated of the 2010s":
     summary: "Top rated shows of the 2010s"
     #file_poster: assets/year/decade_2010s.jpg
-    schedule: monthly
+    schedule: weekly(wednesday)
     template: {
                     name: decade, 
                     num: 2,

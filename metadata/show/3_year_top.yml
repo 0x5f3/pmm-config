@@ -30,7 +30,7 @@ collections:
   "Top Rated of 2022":
     summary: "Top rated shows in 2022"
     #file_poster: assets/decades/year_2022.jpg
-    schedule: weekly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 0,
@@ -44,7 +44,7 @@ collections:
   "Top Rated of 2021":
     summary: "Top rated shows in 2021"
     #file_poster: assets/decades/year_2021.jpg
-    schedule: monthly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 1,
@@ -58,7 +58,7 @@ collections:
   "Top Rated of 2020":
     summary: "Top rated shows in 2020"
     #file_poster: assets/decades/year_2020.jpg
-    schedule: monthly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 2,
@@ -72,7 +72,7 @@ collections:
   "Top Rated of 2019":
     summary: "Top rated shows in 2019"
     #file_poster: assets/decades/year_2019.jpg
-    schedule: monthly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 3,
@@ -86,7 +86,7 @@ collections:
   "Top Rated of 2018":
     summary: "Top rated shows in 2018"
     #file_poster: assets/decades/year_2018.jpg
-    schedule: monthly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 4,
@@ -100,7 +100,7 @@ collections:
   "Top Rated of 2017":
     summary: "Top rated shows in 2017"
     #file_poster: assets/decades/year_2017.jpg
-    schedule: monthly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 5,
@@ -114,7 +114,7 @@ collections:
   "Top Rated of 2016":
     summary: "Top rated shows in 2016"
     #file_poster: assets/decades/year_2016.jpg
-    schedule: monthly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 6,
@@ -128,7 +128,7 @@ collections:
   "Top Rated of 2015":
     summary: "Top rated shows in 2015"
     #file_poster: assets/decades/year_2015.jpg
-    schedule: monthly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 7,
@@ -142,7 +142,7 @@ collections:
   "Top Rated of 2014":
     summary: "Top rated shows in 2014"
     #file_poster: assets/decades/year_2014.jpg
-    schedule: monthly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 8,
@@ -156,7 +156,7 @@ collections:
   "Top Rated of 2013":
     summary: "Top rated shows in 2013"
     #file_poster: assets/decades/year_2013.jpg
-    schedule: monthly
+    schedule: weekly(tuesday)
     template: {
                     name: year, 
                     num: 9,

@@ -43,7 +43,7 @@ collections:
   "Top Rated in Absurdism":
     summary: "Top rated movies in Absurdism"
     #file_poster: assets/subgenre/absurdism_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "absurdism", 
@@ -58,7 +58,7 @@ collections:
   "Top Rated in Aliens":
     summary: "Top rated movies in Aliens"
     #file_poster: assets/subgenre/aliens_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "alien,alien-invasion", 
@@ -73,7 +73,7 @@ collections:
   "Top Rated in Alternate History":
     summary: "Top rated movies in Alternate History"
     #file_poster: assets/subgenre/alternate-history_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "alternate-history", 
@@ -88,7 +88,7 @@ collections:
   "Top Rated in Anti-Hero":
     summary: "Top rated movies in Anti-Hero"
     #file_poster: assets/subgenre/anti-hero_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "anti-hero,superhero", 
@@ -103,7 +103,7 @@ collections:
   "Top Rated in Apocalypse":
     summary: "Top rated movies in Apocalypse"
     #file_poster: assets/subgenre/apocalypse_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "apocalypse,end-of-the-world", 
@@ -118,7 +118,7 @@ collections:
   "Top Rated in Artificial Intelligence":
     summary: "Top rated movies in Artificial Intelligence"
     #file_poster: assets/subgenre/artificial intelligence_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "artificial-intelligence", 
@@ -133,7 +133,7 @@ collections:
   "Top Rated in Assassins":
     summary: "Top rated movies in Assassins"
     #file_poster: assets/subgenre/assassins_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "assassination-attempt", 
@@ -148,7 +148,7 @@ collections:
   "Top Rated in Betrayal":
     summary: "Top rated movies in Betrayal"
     #file_poster: assets/subgenre/betrayal_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "betrayal", 
@@ -163,7 +163,7 @@ collections:
   "Top Rated in Black Comedy":
     summary: "Top rated movies in Black Comedy"
     #file_poster: assets/subgenre/black comedy_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "black-comedy", 
@@ -178,7 +178,7 @@ collections:
   "Top Rated in Boxing":
     summary: "Top rated movies in Boxing"
     #file_poster: assets/subgenre/boxing_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "boxing", 
@@ -194,7 +194,7 @@ collections:
   "Top Rated in Cannibals":
     summary: "Top rated movies in Cannibals"
     #file_poster: assets/subgenre/cannibals_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "cannibalism,cannibal", 
@@ -209,7 +209,7 @@ collections:
   "Top Rated in Caper":
     summary: "Top rated movies in Caper"
     #file_poster: assets/subgenre/caper_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "caper", 
@@ -224,7 +224,7 @@ collections:
   "Top Rated in Comics":
     summary: "Top rated movies in Comics"
     #file_poster: assets/subgenre/comics_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "based-on-comic", 
@@ -239,7 +239,7 @@ collections:
   "Top Rated in Coming of Age":
     summary: "Top rated movies in Coming of Age"
     #file_poster: assets/subgenre/coming-of-age_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "coming-of-age,friendship,teenage-boy,teenage-girl", 
@@ -254,7 +254,7 @@ collections:
   "Top Rated in Con Artists":
     summary: "Top rated movies in Con Artists"
     #file_poster: assets/subgenre/con-artists_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "con-artist,con-man", 
@@ -269,7 +269,7 @@ collections:
   "Top Rated in Costume Drama":
     summary: "Top rated movies in Costume Drama"
     #file_poster: assets/subgenre/costume-drama_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "costume-drama", 
@@ -284,7 +284,7 @@ collections:
   "Top Rated in Courtroom":
     summary: "Top rated movies in Courtroom"
     #file_poster: assets/subgenre/courtroom_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "courtroom,judge,lawyer", 
@@ -299,7 +299,7 @@ collections:
   "Top Rated in Cyberpunk":
     summary: "Top rated movies in Cyberpunk"
     #file_poster: assets/subgenre/cyberpunk_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "cyberpunk,future", 
@@ -314,7 +314,7 @@ collections:
   "Top Rated in Dark Fantasy":
     summary: "Top rated movies in Dark Fantasy"
     #file_poster: assets/subgenre/dark-fantasy_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "dark-fantasy", 
@@ -330,7 +330,7 @@ collections:
   "Top Rated in Detective":
     summary: "Top rated movies in Detective"
     #file_poster: assets/subgenre/detective_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "detective,police-detective", 
@@ -345,7 +345,7 @@ collections:
   "Top Rated in Disaster":
     summary: "Top rated movies in Disaster"
     #file_poster: assets/subgenre/disaster_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "disaster,disaster-film", 
@@ -360,7 +360,7 @@ collections:
   "Top Rated in Dragons":
     summary: "Top rated movies in Dragons"
     #file_poster: assets/subgenre/dragons_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "dragon", 
@@ -375,7 +375,7 @@ collections:
   "Top Rated in Dystopian":
     summary: "Top rated movies in Dystopian"
     #file_poster: assets/subgenre/dystopian_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "dystopia", 
@@ -390,7 +390,7 @@ collections:
   "Top Rated in Epics":
     summary: "Top rated movies in Epics"
     #file_poster: assets/subgenre/epics_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "epic", 
@@ -405,7 +405,7 @@ collections:
   "Top Rated in Espionage":
     summary: "Top rated movies in Espionage"
     #file_poster: assets/subgenre/espionage_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "espionage", 
@@ -420,7 +420,7 @@ collections:
   "Top Rated in Experimental":
     summary: "Top rated movies in Experimental"
     #file_poster: assets/subgenre/experimental_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "experimental-film", 
@@ -435,7 +435,7 @@ collections:
   "Top Rated in Fairy Tales":
     summary: "Top rated movies in Fairy Tales"
     #file_poster: assets/subgenre/fairytales_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "based-on-fairy-tale", 
@@ -450,7 +450,7 @@ collections:
   "Top Rated in Found Footage":
     summary: "Top rated movies in Found Footage"
     #file_poster: assets/subgenre/found-footage_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "found-footage", 
@@ -465,7 +465,7 @@ collections:
   "Top Rated in Fugitives":
     summary: "Top rated movies in Fugitives"
     #file_poster: assets/subgenre/fugitives_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "fugitive,on-the-run", 
@@ -480,7 +480,7 @@ collections:
   "Top Rated in Gangsters":
     summary: "Top rated movies in Gangsters"
     #file_poster: assets/subgenre/gangsters_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "gangster", 
@@ -495,7 +495,7 @@ collections:
   "Top Rated in Ghosts":
     summary: "Top rated movies in Ghosts"
     #file_poster: assets/subgenre/ghosts_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "ghost", 
@@ -510,7 +510,7 @@ collections:
   "Top Rated in Gothic":
     summary: "Top rated movies in Gothic"
     #file_poster: assets/subgenre/gothic_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "gothic", 
@@ -525,7 +525,7 @@ collections:
   "Top Rated in Heartbreak":
     summary: "Top rated movies in Heartbreak"
     #file_poster: assets/subgenre/heartbreak_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "broken-heart", 
@@ -540,7 +540,7 @@ collections:
   "Top Rated in Heists":
     summary: "Top rated movies in Heists"
     #file_poster: assets/subgenre/heists_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "heist,robbery", 
@@ -555,7 +555,7 @@ collections:
   "Top Rated in Historical Event":
     summary: "Top rated movies in Historical Event"
     #file_poster: assets/subgenre/historical-event_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "historical-event", 
@@ -570,7 +570,7 @@ collections:
   "Top Rated in Hostage":
     summary: "Top rated movies in Hostage"
     #file_poster: assets/subgenre/hostage_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "hostage-situation", 
@@ -586,7 +586,7 @@ collections:
   "Top Rated in Martial Arts":
     summary: "Top rated movies in Martial Arts"
     #file_poster: assets/subgenre/martial-arts_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "martial-artist,martial-arts-master,martial-arts", 
@@ -605,7 +605,7 @@ collections:
   "Top Rated in Medical":
     summary: "Top rated movies in Medical"
     #file_poster: assets/subgenre/medical_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "medical", 
@@ -620,7 +620,7 @@ collections:
   "Top Rated in Medieval":
     summary: "Top rated movies in Medieval"
     #file_poster: assets/subgenre/medieval_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "medieval-times", 
@@ -635,7 +635,7 @@ collections:
   "Top Rated in Melodrama":
     summary: "Top rated movies in Melodrama"
     #file_poster: assets/subgenre/melodrama_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "melodrama",
@@ -650,7 +650,7 @@ collections:
   "Top Rated in Military":
     summary: "Top rated movies in Military"
     #file_poster: assets/subgenre/military_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "military,soldier", 
@@ -665,7 +665,7 @@ collections:
   "Top Rated in Mindfuck":
     summary: "Top rated movies in Mindfuck"
     #file_poster: assets/subgenre/mindfuck_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "mindbender", 
@@ -683,7 +683,7 @@ collections:
   "Top Rated in Mockumentary":
     summary: "Top rated movies in Mockumentary"
     #file_poster: assets/subgenre/mockumentary_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "mockumentary,fake-documentary", 
@@ -699,7 +699,7 @@ collections:
   "Top Rated in Monsters":
     summary: "Top rated movies in Monsters"
     #file_poster: assets/subgenre/monsters_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "monster", 
@@ -714,7 +714,7 @@ collections:
   "Top Rated in Mythology":
     summary: "Top rated movies in Mythology"
     #file_poster: assets/subgenre/mythology_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "mythology", 
@@ -729,7 +729,7 @@ collections:
   "Top Rated in Ninjas":
     summary: "Top rated movies in Ninjas"
     #file_poster: assets/subgenre/ninjas_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "ninja", 
@@ -744,7 +744,7 @@ collections:
   "Top Rated in Novel":
     summary: "Top rated movies in Novel"
     #file_poster: assets/subgenre/novel_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "based-on-book,based-on-novel", 
@@ -759,7 +759,7 @@ collections:
   "Top Rated in Occult":
     summary: "Top rated movies in Occult"
     #file_poster: assets/subgenre/occult_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "occult", 
@@ -774,7 +774,7 @@ collections:
   "Top Rated in Outer Space":
     summary: "Top rated movies in Outer Space"
     #file_poster: assets/subgenre/outer-space_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "outer-space,space-travel", 
@@ -791,7 +791,7 @@ collections:
   "Top Rated in Outlaw":
     summary: "Top rated movies in Outlaw"
     #file_poster: assets/subgenre/outlaw_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "outlaw", 
@@ -806,7 +806,7 @@ collections:
   "Top Rated in Pandemic":
     summary: "Top rated movies in Pandemic"
     #file_poster: assets/subgenre/pandemic_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "pandemic", 
@@ -821,7 +821,7 @@ collections:
   "Top Rated in Paranormal":
     summary: "Top rated movies in Paranormal"
     #file_poster: assets/subgenre/paranormal_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "paranormal-phenomenon", 
@@ -836,7 +836,7 @@ collections:
   "Top Rated in Period Drama":
     summary: "Top rated movies in Period Drama"
     #file_poster: assets/subgenre/period-drama_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "period-drama", 
@@ -851,7 +851,7 @@ collections:
   "Top Rated in Philosophical":
     summary: "Top rated movies in Philosophical"
     #file_poster: assets/subgenre/philosophical_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "philosophy", 
@@ -868,7 +868,7 @@ collections:
   "Top Rated in Political":
     summary: "Top rated movies in Political"
     #file_poster: assets/subgenre/political_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "politics,politician", 
@@ -883,7 +883,7 @@ collections:
   "Top Rated in Post-Apocalyptic":
     summary: "Top rated movies in Post-Apocalyptic"
     #file_poster: assets/subgenre/post-apocalyptic_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "post-apocalypse", 
@@ -898,7 +898,7 @@ collections:
   "Top Rated in Prison":
     summary: "Top rated movies in Prison"
     #file_poster: assets/subgenre/post-prison_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "prison,prisoner,prison-guard", 
@@ -913,7 +913,7 @@ collections:
   "Top Rated in Psychedelic":
     summary: "Top rated movies in Psychedelic"
     #file_poster: assets/subgenre/psychedelic_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "psychedelic", 
@@ -929,7 +929,7 @@ collections:
   "Top Rated in Psychological":
     summary: "Top rated movies in Psychological"
     #file_poster: assets/subgenre/psychological_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "psychological", 
@@ -944,7 +944,7 @@ collections:
   "Top Rated in Religion":
     summary: "Top rated movies in Religion"
     #file_poster: assets/subgenre/religion_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "faith,religion,prayer", 
@@ -959,7 +959,7 @@ collections:
   "Top Rated in Revenge":
     summary: "Top rated movies in Revenge"
     #file_poster: assets/subgenre/revenge_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "revenge-plot", 
@@ -974,7 +974,7 @@ collections:
   "Top Rated in Robots":
     summary: "Top rated movies in Robots"
     #file_poster: assets/subgenre/robots_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "giant-robot", 
@@ -989,7 +989,7 @@ collections:
   "Top Rated in Romantic Comedy":
     summary: "Top rated movies in Romantic Comedy"
     #file_poster: assets/subgenre/romantic-comedy_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "", 
@@ -1007,7 +1007,7 @@ collections:
   "Top Rated in Romantic Drama":
     summary: "Top rated movies in Romantic Drama"
     #file_poster: assets/subgenre/romantic-drama_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "", 
@@ -1025,7 +1025,7 @@ collections:
   "Top Rated in Satire":
     summary: "Top rated movies in Satire"
     #file_poster: assets/subgenre/satire_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "satire", 
@@ -1040,7 +1040,7 @@ collections:
   "Top Rated in Serial Killers":
     summary: "Top rated movies in Serial Killers"
     #file_poster: assets/subgenre/serial-killers_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "serial-killer,murder", 
@@ -1055,7 +1055,7 @@ collections:
   "Top Rated in Slasher":
     summary: "Top rated movies in Slasher"
     #file_poster: assets/subgenre/slasher_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "slasher", 
@@ -1074,7 +1074,7 @@ collections:
   "Top Rated in Space Opera":
     summary: "Top rated movies in Space Opera"
     #file_poster: assets/subgenre/space-opera_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "space-opera", 
@@ -1089,7 +1089,7 @@ collections:
   "Top Rated in Spaghetti Western":
     summary: "Top rated movies in Spaghetti Western"
     #file_poster: assets/subgenre/spaghetti-western_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "spaghetti-western", 
@@ -1104,7 +1104,7 @@ collections:
   "Top Rated in Splatter":
     summary: "Top rated movies in Splatter"
     #file_poster: assets/subgenre/splatter_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "splatter", 
@@ -1119,7 +1119,7 @@ collections:
   "Top Rated in Steampunk":
     summary: "Top rated movies in Steampunk"
     #file_poster: assets/subgenre/steampunk_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "steampunk", 
@@ -1134,7 +1134,7 @@ collections:
   "Top Rated in Stoner":
     summary: "Top rated movies in Stoner"
     #file_poster: assets/subgenre/stoner_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "stoner,marijuana", 
@@ -1149,7 +1149,7 @@ collections:
   "Top Rated in Superhero":
     summary: "Top rated movies in Superhero"
     #file_poster: assets/subgenre/superhero_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "superhero", 
@@ -1164,7 +1164,7 @@ collections:
   "Top Rated in Supernatural":
     summary: "Top rated movies in Supernatural"
     #file_poster: assets/subgenre/supernatural_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "supernatural-power", 
@@ -1179,7 +1179,7 @@ collections:
   "Top Rated in Surrealism":
     summary: "Top rated movies in Surrealism"
     #file_poster: assets/subgenre/surrealism_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "surrealism", 
@@ -1194,7 +1194,7 @@ collections:
   "Top Rated in Survival":
     summary: "Top rated movies in Survival"
     #file_poster: assets/subgenre/survival_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "survival,survivor", 
@@ -1211,7 +1211,7 @@ collections:
   "Top Rated in Swashbuckler":
     summary: "Top rated movies in Swashbuckler"
     #file_poster: assets/subgenre/swashbuckler_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "swashbuckler", 
@@ -1226,7 +1226,7 @@ collections:
   "Top Rated in Sword & Sorcery":
     summary: "Top rated movies in Sword & Sorcery"
     #file_poster: assets/subgenre/sword-sorcery_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "sword-and-sorcery", 
@@ -1242,7 +1242,7 @@ collections:
   "Top Rated in Time Travel":
     summary: "Top rated movies in Time Travel"
     #file_poster: assets/subgenre/time-travel_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "time-travel", 
@@ -1259,7 +1259,7 @@ collections:
   "Top Rated in Treasure Hunt":
     summary: "Top rated movies in Treasure Hunt"
     #file_poster: assets/subgenre/treasure-hunt_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "treasure-hunt", 
@@ -1274,7 +1274,7 @@ collections:
   "Top Rated in True Story":
     summary: "Top rated movies in True Story"
     #file_poster: assets/subgenre/true-story_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "based-on-true-story", 
@@ -1292,7 +1292,7 @@ collections:
   "Top Rated in Urban Fantasy":
     summary: "Top rated movies in Urban Fantasy"
     #file_poster: assets/subgenre/urban-fantasy_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "urban-fantasy", 
@@ -1307,7 +1307,7 @@ collections:
   "Top Rated in Utopian":
     summary: "Top rated movies in Utopian"
     #file_poster: assets/subgenre/utopian_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "utopia", 
@@ -1323,7 +1323,7 @@ collections:
   "Top Rated in Vampires":
     summary: "Top rated movies in Vampires"
     #file_poster: assets/subgenre/vampires_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "vampire", 
@@ -1338,7 +1338,7 @@ collections:
   "Top Rated in Video Game":
     summary: "Top rated movies in Video Game"
     #file_poster: assets/subgenre/video-game_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "based-on-video-game", 
@@ -1353,7 +1353,7 @@ collections:
   "Top Rated in Werewolves":
     summary: "Top rated movies in Werewolves"
     #file_poster: assets/subgenre/werewolves_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "werewolf", 
@@ -1369,7 +1369,7 @@ collections:
   "Top Rated in Whodunit?":
     summary: "Top rated movies in Whodunit?"
     #file_poster: assets/subgenre/whodunit_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "whodunit", 
@@ -1384,7 +1384,7 @@ collections:
   "Top Rated in Wizardry & Witchcraft":
     summary: "Top rated movies in Wizardry & Witchcraft"
     #file_poster: assets/subgenre/wizardry-witchcraft_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "wizard", 
@@ -1400,7 +1400,7 @@ collections:
   "Top Rated in World War":
     summary: "Top rated movies in World War"
     #file_poster: assets/subgenre/world-war_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "world-war-one", 
@@ -1416,7 +1416,7 @@ collections:
   "Top Rated in Zombies":
     summary: "Top rated movies in Zombies"
     #file_poster: assets/subgenre/zombies_top.jpg
-    schedule: weekly
+    schedule: weekly(friday)
     template: {
                     name: sub_genre, 
                     keywords: "zombie", 

@@ -4,16 +4,15 @@ libraries:
     operations:
       delete_unmanaged_collections: true
     metadata_path:
-#    - file: config/metadata/movie/0_radarr.yml
-    - file: config/metadata/movie/1_charts.yml
-    - file: config/metadata/movie/2_awards.yml
-    - file: config/metadata/movie/3_year_top.yml
-    - file: config/metadata/movie/4_decades_top.yml
-    - file: config/metadata/movie/5_genre_popular.yml
-    - file: config/metadata/movie/6_genre_top.yml
-    - file: config/metadata/movie/7_subgenre_top.yml
-    - file: config/metadata/movie/8_holidays.yml
-    - file: config/metadata/movie/9_collections.yml
+    - repo: metadata/movie/1_charts
+    - repo: metadata/movie/2_awards
+    - repo: metadata/movie/3_year_top
+    - repo: metadata/movie/4_decades_top
+    - repo: metadata/movie/5_genre_popular
+    - repo: metadata/movie/6_genre_top
+    - repo: metadata/movie/7_subgenre_top
+    - repo: metadata/movie/8_holidays
+    - repo: metadata/movie/9_collections  
 settings:
   assets_for_all: false
   asset_depth: 0
@@ -23,7 +22,7 @@ settings:
   cache_expiration: 60
   check_nightly: false
   create_asset_folders: false
-  custom_repo:
+  custom_repo: https://github.com/0x5f3/pmm-config/main/
   default_collection_order:
   delete_below_minimum: true
   delete_not_scheduled: false

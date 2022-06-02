@@ -30,7 +30,7 @@ collections:
   "Top Rated in Action":
     summary: "Top rated movies in Action"
     #file_poster: assets/genre/show/action_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "action",
@@ -43,7 +43,7 @@ collections:
   "Top Rated in Adventure":
     summary: "Top rated movies in Adventure"
     #file_poster: assets/genre/show/adventure_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "adventure",
@@ -56,7 +56,7 @@ collections:
   "Top Rated in Animation":
     summary: "Top rated movies in Animation"
     #file_poster: assets/genre/show/animation_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "animation",
@@ -69,7 +69,7 @@ collections:
   "Top Rated in Biography":
     summary: "Top rated movies in Biography"
     #file_poster: assets/genre/show/biography_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "biography",
@@ -82,7 +82,7 @@ collections:
   "Top Rated in Comedy":
     summary: "Top rated movies in Comedy"
     #file_poster: assets/genre/show/comedy_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "comedy",
@@ -95,7 +95,7 @@ collections:
   "Top Rated in Crime":
     summary: "Top rated movies in Crime"
     #file_poster: assets/genre/show/crime_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "crime",
@@ -108,7 +108,7 @@ collections:
   "Top Rated in Drama":
     summary: "Top rated movies in Drama"
     #file_poster: assets/genre/show/drama_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "drama",
@@ -121,7 +121,7 @@ collections:
   "Top Rated in Family":
     summary: "Top rated movies in Family"
     #file_poster: assets/genre/show/family_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "family",
@@ -134,7 +134,7 @@ collections:
   "Top Rated in Fantasy":
     summary: "Top rated movies in Fantasy"
     #file_poster: assets/genrefantasy_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "fantasy",
@@ -147,7 +147,7 @@ collections:
   "Top Rated in History":
     summary: "Top rated movies in History"
     #file_poster: assets/genre/show/history_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "history",
@@ -160,7 +160,7 @@ collections:
   "Top Rated in Horror":
     summary: "Top rated movies in Horror"
     #file_poster: assets/genre/show/horror_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "horror",
@@ -173,7 +173,7 @@ collections:
   "Top Rated in Music":
     summary: "Top rated movies in Music"
     #file_poster: assets/genre/show/music_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "music",
@@ -186,7 +186,7 @@ collections:
   "Top Rated in Musicals":
     summary: "Top rated movies in Musicals"
     #file_poster: assets/genre/show/musicals_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "musicals",
@@ -199,7 +199,7 @@ collections:
   "Top Rated in Mystery":
     summary: "Top rated movies in Mystery"
     #file_poster: assets/genre/show/mystery_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "mystery",
@@ -212,7 +212,7 @@ collections:
   "Top Rated in Romance":
     summary: "Top rated movies in Romance"
     #file_poster: assets/genre/show/romance_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "romance",
@@ -225,7 +225,7 @@ collections:
   "Top Rated in Sci-Fi":
     summary: "Top rated movies in Sci-Fi"
     #file_poster: assets/genre/show/sci-fi_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "sci-fi",
@@ -238,7 +238,7 @@ collections:
   "Top Rated in Thriller":
     summary: "Top rated movies in Thriller"
     #file_poster: assets/genre/show/thriller_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "thriller",
@@ -251,7 +251,7 @@ collections:
   "Top Rated in War":
     summary: "Top rated movies in War"
     #file_poster: assets/genre/show/war_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "war",
@@ -264,7 +264,7 @@ collections:
   "Top Rated in Western":
     summary: "Top rated movies in Western"
     #file_poster: assets/genre/show/western_top.jpg
-    schedule: weekly
+    schedule: weekly(thursday)
     template: {
                     name: genre, 
                     genres: "western",

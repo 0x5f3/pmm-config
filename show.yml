@@ -4,13 +4,12 @@ libraries:
     operations:
       delete_unmanaged_collections: true
     metadata_path:
-#    - file: config/metatdata/show/0_sonarr.yml
-    - file: config/metadata/show/1_charts.yml
-    - file: config/metadata/show/2_awards.yml
-    - file: config/metadata/show/3_year_top.yml
-    - file: config/metadata/show/4_decades_top.yml
-    - file: config/metadata/show/5_genre_popular.yml
-    - file: config/metadata/show/6_genre_top.yml
+    - repo: metadata/show/1_charts
+    - repo: metadata/show/2_awards
+    - repo: metadata/show/3_year_top
+    - repo: metadata/show/4_decades_top
+    - repo: metadata/show/5_genre_popular
+    - repo: metadata/show/6_genre_top
 settings:
   assets_for_all: false
   asset_depth: 0
@@ -20,7 +19,7 @@ settings:
   cache_expiration: 60
   check_nightly: false
   create_asset_folders: false
-  custom_repo:
+  custom_repo: https://github.com/0x5f3/pmm-config/main/
   default_collection_order:
   delete_below_minimum: true
   delete_not_scheduled: false

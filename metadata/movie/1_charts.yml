@@ -42,7 +42,7 @@ collections:
   "Trending Movies":
     summary: Movies trending across the internet
     #file_poster: assets/trending/movie/trending-movies.jpg
-    radarr_add_missing: true
+    #radarr_add_missing: true
     schedule: daily
     template: { 
                     name: trakt, 
@@ -108,7 +108,7 @@ collections:
   "Most Watched Monthly":
     summary: Movies trending across the internet
     #file_poster: assets/trending/most-watched-monthly.jpg
-    schedule: weekly
+    schedule: weekly(sunday)
     template: { 
                     name: trakt, 
                     num: 6
@@ -121,7 +121,7 @@ collections:
   "Most Watched Yearly":
     summary: Movies trending across the internet
     #file_poster: assets/trending/most-watched-yearly.jpg
-    schedule: weekly
+    schedule: weekly(sunday)
     template: { 
                     name: trakt, 
                     num: 7

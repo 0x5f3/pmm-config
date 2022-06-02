@@ -119,7 +119,7 @@ collections:
   "Most Watched Monthly":
     summary: Monthly most watched TV shows across the internet
     #file_poster: assets/trending/most-watched-monthly.jpg
-    schedule: weekly
+    schedule: weekly(sunday)
     template: { 
                     name: trakt, 
                     num: 5
@@ -132,7 +132,7 @@ collections:
   "Most Watched Yearly":
     summary: Yearly most watched TV shows across the internet
     #file_poster: assets/trending/most-watched-yearly.jpg
-    schedule: monthly
+    schedule: weekly(sunday)
     template: { 
                     name: trakt, 
                     num: 6
