@@ -27,7 +27,7 @@ templates:
 collections:
   "Popular in Action":
     summary: "Popular shows in Action"
-    #file_poster: assets/genre/show/action_popular.jpg
+    file_poster: config/assets/genre/action_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -38,7 +38,7 @@ collections:
                     
   "Popular in Adventure":
     summary: "Popular shows in Adventure"
-    #file_poster: assets/genre/show/adventure_popular.jpg
+    file_poster: config/assets/genre/adventure_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -49,7 +49,7 @@ collections:
                     
   "Popular in Animation":
     summary: "Popular shows in Animation"
-    #file_poster: assets/genre/show/animation_popular.jpg
+    file_poster: config/assets/genre/animation_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -60,7 +60,7 @@ collections:
                     
   "Popular in Biography":
     summary: "Popular shows in Biography"
-    #file_poster: assets/genre/show/biography_popular.jpg
+    file_poster: config/assets/genre/biography_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -71,7 +71,7 @@ collections:
                     
   "Popular in Comedy":
     summary: "Popular shows in Comedy"
-    #file_poster: assets/genre/show/comedy_popular.jpg
+    file_poster: config/assets/genre/comedy_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -82,7 +82,7 @@ collections:
                     
   "Popular in Crime":
     summary: "Popular shows in Crime"
-    #file_poster: assets/genre/show/crime_popular.jpg
+    file_poster: config/assets/genre/crime_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -93,7 +93,7 @@ collections:
                     
   "Popular in Drama":
     summary: "Popular shows in Drama"
-    #file_poster: assets/genre/show/drama_popular.jpg
+    file_poster: config/assets/genre/drama_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -104,7 +104,7 @@ collections:
                     
   "Popular in Family":
     summary: "Popular shows in Family"
-    #file_poster: assets/genre/show/family_popular.jpg
+    file_poster: config/assets/genre/family_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -115,7 +115,7 @@ collections:
                     
   "Popular in Fantasy":
     summary: "Popular shows in Fantasy"
-    #file_poster: assets/genre/show/fantasy_popular.jpg
+    file_poster: config/assets/genre/fantasy_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -126,7 +126,7 @@ collections:
                     
   "Popular in History":
     summary: "Popular shows in History"
-    #file_poster: assets/genre/show/history_popular.jpg
+    file_poster: config/assets/genre/history_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -137,7 +137,7 @@ collections:
                     
   "Popular in Horror":
     summary: "Popular shows in Horror"
-    #file_poster: assets/genre/show/horror_popular.jpg
+    file_poster: config/assets/genre/horror_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -148,7 +148,7 @@ collections:
                     
   "Popular in Music":
     summary: "Popular shows in Music"
-    #file_poster: assets/genre/show/music_popular.jpg
+    file_poster: config/assets/genre/music_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -159,7 +159,7 @@ collections:
                     
   "Popular in Musicals":
     summary: "Popular shows in Musicals"
-    #file_poster: assets/genre/show/musicals_popular.jpg
+    file_poster: config/assets/genre/musicals_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -170,7 +170,7 @@ collections:
                     
   "Popular in Mystery":
     summary: "Popular shows in Mystery"
-    #file_poster: assets/genre/show/mystery_popular.jpg
+    file_poster: config/assets/genre/mystery_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -181,7 +181,7 @@ collections:
                     
   "Popular in Romance":
     summary: "Popular shows in Romance"
-    #file_poster: assets/genre/show/romance_popular.jpg
+    file_poster: config/assets/genre/romance_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -192,7 +192,7 @@ collections:
                     
   "Popular in Sci-Fi":
     summary: "Popular shows in Sci-Fi"
-    #file_poster: assets/genre/show/sci-fi_popular.jpg
+    file_poster: config/assets/genre/sci-fi_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -203,7 +203,7 @@ collections:
                     
   "Popular in Thriller":
     summary: "Popular shows in Thriller"
-    #file_poster: assets/genre/show/thriller_popular.jpg
+    file_poster: config/assets/genre/thriller_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -214,7 +214,7 @@ collections:
                     
   "Popular in War":
     summary: "Popular shows in War"
-    #file_poster: assets/genre/show/war_popular.jpg
+    file_poster: config/assets/genre/war_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -225,7 +225,7 @@ collections:
                     
   "Popular in Western":
     summary: "Popular shows in Western"
-    #file_poster: assets/genre/show/western_popular.jpg
+    file_poster: config/assets/genre/western_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
