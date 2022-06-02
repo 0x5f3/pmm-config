@@ -13,7 +13,7 @@ templates:
   imdb:
     sort_title: "+2_<<num>>_<<collection_name>>"
     sync_mode: sync
-    collection_order: custom
+    collection_order: release.desc
     collection_mode: hide
     visible_home: false
     visible_shared: false
@@ -33,7 +33,7 @@ templates:
       - letterboxd_extra_5
     sort_title: "+2_<<num>>_<<collection_name>>"
     sync_mode: sync
-    collection_order: custom
+    collection_order: release.desc
     collection_mode: hide
     visible_home: false
     visible_shared: false
@@ -49,7 +49,7 @@ templates:
       - trakt_list
     sort_title: "+2_<<num>>_<<collection_name>>"
     sync_mode: sync
-    collection_order: custom
+    collection_order: release.desc
     collection_mode: hide
     visible_home: false
     visible_shared: false
@@ -65,7 +65,7 @@ templates:
       - trakt_list
     sort_title: "+2_<<num>>_<<collection_name>>"
     sync_mode: sync
-    collection_order: release
+    collection_order: release.desc
     collection_mode: hide
     visible_home: false
     visible_shared: false
