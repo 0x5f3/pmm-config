@@ -133,7 +133,7 @@ collections:
                     
   "Top Rated in Fantasy":
     summary: "Top rated movies in Fantasy"
-    file_poster: config/assets/genrefantasy_top.jpg
+    file_poster: config/assets/genre/fantasy_top.jpg
     schedule: weekly(thursday)
     template: {
                     name: genre, 

@@ -43,7 +43,7 @@ collections:
 
   "Top Rated of the 1950s":
     summary: "Top rated movies of the 1950s"
-    file_poster: config/assets/year/decade_1950s".jpg
+    file_poster: config/assets/year/decade_1950s.jpg
     schedule: weekly(wednesday)
     template: {
                     name: decade, 
