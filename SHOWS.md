@@ -1,4 +1,5 @@
 - 1_charts.yml
+  - Random TV shows
   - Trending TV shows
   - Popular TV shows
   - Top Rated TV shows
