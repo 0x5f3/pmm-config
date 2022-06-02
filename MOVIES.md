@@ -1,4 +1,5 @@
 - 1_charts.yml
+  - Random Movies
   - Trending Movies
   - Popular Movies
   - Top Rated Movies
