@@ -13,8 +13,8 @@ libraries:
 settings:
   assets_for_all: false
   asset_depth: 0
-  asset_directory: config/assets
-  asset_folders: true
+  asset_directory: 
+  asset_folders: false
   cache: true
   cache_expiration: 60
   check_nightly: false

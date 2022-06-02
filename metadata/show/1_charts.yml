@@ -1,16 +1,16 @@
-## 
-##  "":
-##    template: {
-##                    name: year, 
-##                    release_date: "",
-##                    title_type: "feature,tv_movie", 
-##                    user_rating: "5.0,10.0", 
-##                    votes: "10000,", 
-##                    languages: "en",
-##                    }
-##
-
 templates:
+  plex:
+    sort_title: "+1_<<num>>_<<collection_name>>"
+    sync_mode: sync
+    collection_order: random
+    collection_mode: hide
+    visible_home: false
+    visible_shared: false
+    visible_library: false
+    delete_not_scheduled: false
+    cache_builders: 4
+    limit: 250
+
   trakt:
     sort_title: "+1_<<num>>_<<collection_name>>"
     sync_mode: sync
@@ -51,13 +51,25 @@ templates:
       limit: 200
     
 collections:
+  "Random TV shows":
+    summary: Random selection of TV shows
+    file_poster: config/assets/trending/random.jpg
+    schedule: daily
+    template: { 
+                    name: plex, 
+                    num: 0
+                    }
+    plex_all: true
+    filters:
+      rating.gte: 4
+
   "Trending TV shows":
     summary: TV shows trending across the internet
     file_poster: config/assets/trending/trending.jpg
     schedule: daily
     template: { 
                     name: trakt, 
-                    num: 0
+                    num: 1
                     }
     trakt_chart:
       chart: trending
@@ -70,7 +82,7 @@ collections:
     schedule: daily
     template: { 
                     name: imdb_popular, 
-                    num: 1,
+                    num: 2,
                     title_type: "tv_series,tv_special,tv_miniseries",
                     languages: "en",
                     }
@@ -82,7 +94,7 @@ collections:
     schedule: daily
     template: { 
                     name: imdb_top, 
-                    num: 2,
+                    num: 3,
                     title_type: "tv_series,tv_special,tv_miniseries", 
                     user_rating: "5.0,10.0", 
                     votes: "10000,", 
@@ -96,7 +108,7 @@ collections:
     schedule: daily
     template: { 
                     name: trakt, 
-                    num: 3
+                    num: 4
                     }
     trakt_chart:
       chart: watched
@@ -109,7 +121,7 @@ collections:
     schedule: daily
     template: { 
                     name: trakt, 
-                    num: 4
+                    num: 5
                     }
     trakt_chart:
       chart: watched
@@ -122,7 +134,7 @@ collections:
     schedule: weekly(sunday)
     template: { 
                     name: trakt, 
-                    num: 5
+                    num: 6
                     }
     trakt_chart:
       chart: watched
@@ -135,7 +147,7 @@ collections:
     schedule: weekly(sunday)
     template: { 
                     name: trakt, 
-                    num: 6
+                    num: 7
                     }
     trakt_chart:
       chart: watched
