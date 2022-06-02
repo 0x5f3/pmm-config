@@ -29,7 +29,7 @@ templates:
 collections:
   "Top Rated of 2022":
     summary: "Top rated movies in 2022"
-    #file_poster: assets/year/year_2022.jpg
+    file_poster: config/assets/year/year_2022.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 
@@ -43,7 +43,7 @@ collections:
                     
   "Top Rated of 2021":
     summary: "Top rated movies in 2021"
-    #file_poster: assets/year/year_2021.jpg
+    file_poster: config/assets/year/year_2021.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 
@@ -57,7 +57,7 @@ collections:
                     
   "Top Rated of 2020":
     summary: "Top rated movies in 2020"
-    #file_poster: assets/year/year_2020.jpg
+    file_poster: config/assets/year/year_2020.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 
@@ -71,7 +71,7 @@ collections:
                     
   "Top Rated of 2019":
     summary: "Top rated movies in 2019"
-    #file_poster: assets/year/year_2019.jpg
+    file_poster: config/assets/year/year_2019.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 
@@ -85,7 +85,7 @@ collections:
                     
   "Top Rated of 2018":
     summary: "Top rated movies in 2018"
-    #file_poster: assets/year/year_2018.jpg
+    file_poster: config/assets/year/year_2018.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 
@@ -99,7 +99,7 @@ collections:
                     
   "Top Rated of 2017":
     summary: "Top rated movies in 2017"
-    #file_poster: assets/year/year_2017.jpg
+    file_poster: config/assets/year/year_2017.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 
@@ -113,7 +113,7 @@ collections:
                     
   "Top Rated of 2016":
     summary: "Top rated movies in 2016"
-    #file_poster: assets/year/year_2016.jpg
+    file_poster: config/assets/year/year_2016.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 
@@ -127,7 +127,7 @@ collections:
                     
   "Top Rated of 2015":
     summary: "Top rated movies in 2015"
-    #file_poster: assets/year/year_2015.jpg
+    file_poster: config/assets/year/year_2015.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 
@@ -141,7 +141,7 @@ collections:
                     
   "Top Rated of 2014":
     summary: "Top rated movies in 2014"
-    #file_poster: assets/year/year_2014.jpg
+    file_poster: config/assets/year/year_2014.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 
@@ -155,7 +155,7 @@ collections:
                     
   "Top Rated of 2013":
     summary: "Top rated movies in 2013"
-    #file_poster: assets/year/year_2013.jpg
+    file_poster: config/assets/year/year_2013.jpg
     schedule: weekly(tuesday)
     template: {
                     name: year, 

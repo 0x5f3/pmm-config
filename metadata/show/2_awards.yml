@@ -81,7 +81,7 @@ templates:
 collections:
   "Emmy Award Winners":
     summary: "A collection of Emmy Award Winners"
-    #file_poster: assets/awards/emmy-award-winners.jpg
+    file_poster: config/assets/awards/emmy-award-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: imdb, 
@@ -94,7 +94,7 @@ collections:
     
   "Emmy Award Nominees":
     summary: "A collection of Emmy Award Nominees"
-    #file_poster: assets/awards/emmy-award-nominees.jpg
+    file_poster: config/assets/awards/emmy-award-nominees.jpg
     schedule: weekly(monday)
     template: {
                     name: imdb, 
@@ -107,7 +107,7 @@ collections:
     
   "Golden Globes Winners":
     summary: "A collection of Golden Globes Winners"
-    #file_poster: assets/awards/golden-globes-winners.jpg
+    file_poster: config/assets/awards/golden-globes-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: imdb, 
@@ -120,7 +120,7 @@ collections:
     
   "Golden Globes Nominees":
     summary: "A collection of Golden Globes Nominees"
-    #file_poster: assets/awards/golden-globes-nominees.jpg
+    file_poster: config/assets/awards/golden-globes-nominees.jpg
     schedule: weekly(monday)
     template: {
                     name: imdb, 
@@ -133,7 +133,7 @@ collections:
     
   "BAFTA Winners":
     summary: "A collection of BAFTA Winners"
-    #file_poster: assets/awards/bafta-winners.jpg
+    file_poster: config/assets/awards/bafta-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: custom_1,
@@ -144,7 +144,7 @@ collections:
     
   "Critics Choice Award Winners":
     summary: "A collection of Critics Choice Award Winners"
-    #file_poster: assets/awards/critics-choice-award-winners.jpg
+    file_poster: config/assets/awards/critics-choice-award-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: custom_2,

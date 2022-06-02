@@ -12,7 +12,7 @@ templates:
 
 collections:
   "Valentine's Day Movies":
-    #file_poster: assets/holiday/valentines-day.jpg
+    file_poster: config/assets/holiday/valentines-day.jpg
     schedule: range(02/10-02/14)
     template: {
                      name: Holiday, 
@@ -24,7 +24,7 @@ collections:
       - https://www.imdb.com/list/ls064427905
       
   "Halloween Movies":
-    #file_poster: assets/holiday/halloween.jpg
+    file_poster: config/assets/holiday/halloween.jpg
     schedule: range(10/29-10/31)
     sort_title: '!AB'
     template: {
@@ -38,7 +38,7 @@ collections:
       - https://www.imdb.com/search/title/?genres=horror&keywords=haunted-house&sort=moviemeter,asc
       
   "Christmas Movies":
-    #file_poster: assets/holiday/christmas.jpg
+    file_poster: config/assets/holiday/christmas.jpg
     schedule: range(12/01-12/31)
     sort_title: '!AB'
     template: {
@@ -54,7 +54,7 @@ collections:
       - https://www.imdb.com/list/ls027567380
     
   "New Year's Eve Movies":
-    #file_poster: assets/holiday/new-year.jpg
+    file_poster: config/assets/holiday/new-year.jpg
     schedule: range(12/26-01/02)
     sort_title: '!AA'
     template: {

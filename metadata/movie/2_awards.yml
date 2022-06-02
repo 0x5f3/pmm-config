@@ -40,14 +40,14 @@ templates:
     visible_library: false
     delete_not_scheduled: false
     cache_builders: 6
-    letterboxd_list:: 
+    letterboxd_list:
       url: https://letterboxd.com/<<user>>/list/<<list>>/by/<<sort>>
       limit: 350
       
 collections:
   "Oscar Winners":
     summary: "A collection of Oscar Winners"
-    #file_poster: assets/awards/oscar-winners.jpg
+    file_poster: config/assets/awards/oscar-winners.jpg
     schedule: weekly
     template: {
                     name: imdb, 
@@ -60,7 +60,7 @@ collections:
     
   "Oscar Nominees":
     summary: "A collection of Oscar Nominees"
-    #file_poster: assets/awards/oscar-nominees.jpg
+    file_poster: config/assets/awards/oscar-nominees.jpg
     schedule: weekly
     template: {
                     name: imdb, 
@@ -73,7 +73,7 @@ collections:
     
   "Golden Globes Winners":
     summary: "A collection of Golden Globes Winners"
-    #file_poster: assets/awards/golden-globes-winners.jpg
+    file_poster: config/assets/awards/golden-globes-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: imdb, 
@@ -86,7 +86,7 @@ collections:
     
   "Golden Globes Nominees":
     summary: "A collection of Golden Globes Nominees"
-    #file_poster: assets/awards/golden-globes-nominees.jpg
+    file_poster: config/assets/awards/golden-globes-nominees.jpg
     schedule: weekly(monday)
     template: {
                     name: imdb, 
@@ -99,7 +99,7 @@ collections:
     
   "BAFTA Winners":
     summary: "A collection of BAFTA Winners"
-    #file_poster: assets/awards/bafta-winners.jpg
+    file_poster: config/assets/awards/bafta-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: letterbox, 
@@ -112,7 +112,7 @@ collections:
     
   "Berlinale Winners":
     summary: "A collection of Berlinale Winners"
-    #file_poster: assets/awards/berlinale-winners.jpg
+    file_poster: config/assets/awards/berlinale-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: letterboxd, 
@@ -125,7 +125,7 @@ collections:
     
   "Cannes Film Festival Winners":
     summary: "A collection of Cannes Film Festival Winners"
-    #file_poster: assets/awards/cannes-film-festival-winners.jpg
+    file_poster: config/assets/awards/cannes-film-festival-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: letterboxd, 
@@ -138,7 +138,7 @@ collections:
     
   "European Film Award Winners":
     summary: "A collection of European Film Award Winners"
-    #file_poster: assets/awards/european-film-award-winners.jpg
+    file_poster: config/assets/awards/european-film-award-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: letterboxd, 
@@ -151,7 +151,7 @@ collections:
 
   "Sundance Winners":
     summary: "A collection of Sundance Winners"
-    #file_poster: assets/awards/sundance-winners.jpg
+    file_poster: config/assets/awards/sundance-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: letterboxd, 
@@ -164,7 +164,7 @@ collections:
     
   "Venice Film Festival Winners":
     summary: "A collection of Venice Film Festival Winners"
-    #file_poster: assets/awards/venice-film-festival-winners.jpg
+    file_poster: config/assets/awards/venice-film-festival-winners.jpg
     schedule: weekly(monday)
     template: {
                     name: letterboxd, 

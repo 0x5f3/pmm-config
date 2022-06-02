@@ -27,7 +27,7 @@ templates:
 collections:
   "Popular in Action":
     summary: "Popular movies in Action"
-    #file_poster: assets/genre/movie/action_popular.jpg
+    file_poster: config/assets/genre/movie/action_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -38,7 +38,7 @@ collections:
                     
   "Popular in Adventure":
     summary: "Popular movies in Adventure"
-    #file_poster: assets/genre/movie/adventure_popular.jpg
+    file_poster: config/assets/genre/adventure_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -49,7 +49,7 @@ collections:
                     
   "Popular in Animation":
     summary: "Popular movies in Animation"
-    #file_poster: assets/genre/movie/animation_popular.jpg
+    file_poster: config/assets/genre/animation_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -60,7 +60,7 @@ collections:
                     
   "Popular in Biography":
     summary: "Popular movies in Biography"
-    #file_poster: assets/genre/movie/biography_popular.jpg
+    file_poster: config/assets/genre/biography_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -71,7 +71,7 @@ collections:
                     
   "Popular in Comedy":
     summary: "Popular movies in Comedy"
-    #file_poster: assets/genre/movie/comedy_popular.jpg
+    file_poster: config/assets/genre/comedy_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -82,7 +82,7 @@ collections:
                     
   "Popular in Crime":
     summary: "Popular movies in Crime"
-    #file_poster: assets/genre/movie/crime_popular.jpg
+    file_poster: config/assets/genre/crime_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -93,7 +93,7 @@ collections:
                     
   "Popular in Drama":
     summary: "Popular movies in Drama"
-    #file_poster: assets/genre/movie/drama_popular.jpg
+    file_poster: config/assets/genre/drama_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -104,7 +104,7 @@ collections:
                     
   "Popular in Family":
     summary: "Popular movies in Family"
-    #file_poster: assets/genre/movie/family_popular.jpg
+    file_poster: config/assets/genre/family_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -115,7 +115,7 @@ collections:
                     
   "Popular in Fantasy":
     summary: "Popular movies in Fantasy"
-    #file_poster: assets/genre/movie/fantasy_popular.jpg
+    file_poster: config/assets/genre/fantasy_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -126,7 +126,7 @@ collections:
                     
   "Popular in History":
     summary: "Popular movies in History"
-    #file_poster: assets/genre/movie/history_popular.jpg
+    file_poster: config/assets/genre/history_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -137,7 +137,7 @@ collections:
                     
   "Popular in Horror":
     summary: "Popular movies in Horror"
-    #file_poster: assets/genre/movie/horror_popular.jpg
+    file_poster: config/assets/genre/horror_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -148,7 +148,7 @@ collections:
                     
   "Popular in Music":
     summary: "Popular movies in Music"
-    #file_poster: assets/genre/movie/music_popular.jpg
+    file_poster: config/assets/genre/music_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -159,7 +159,7 @@ collections:
                     
   "Popular in Musicals":
     summary: "Popular movies in Musicals"
-    #file_poster: assets/genre/movie/musicals_popular.jpg
+    file_poster: config/assets/genre/musicals_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -170,7 +170,7 @@ collections:
                     
   "Popular in Mystery":
     summary: "Popular movies in Mystery"
-    #file_poster: assets/genre/movie/mystery_popular.jpg
+    file_poster: config/assets/genre/mystery_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -181,7 +181,7 @@ collections:
                     
   "Popular in Romance":
     summary: "Popular movies in Romance"
-    #file_poster: assets/genre/movie/romance_popular.jpg
+    file_poster: config/assets/genre/romance_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -192,7 +192,7 @@ collections:
                     
   "Popular in Sci-Fi":
     summary: "Popular movies in Sci-Fi"
-    #file_poster: assets/genre/movie/sci-fi_popular.jpg
+    file_poster: config/assets/genre/sci-fi_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -203,7 +203,7 @@ collections:
                     
   "Popular in Thriller":
     summary: "Popular movies in Thriller"
-    #file_poster: assets/genre/movie/thriller_popular.jpg
+    file_poster: config/assets/genre/thriller_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -214,7 +214,7 @@ collections:
                     
   "Popular in War":
     summary: "Popular movies in War"
-    #file_poster: assets/genre/movie/war_popular.jpg
+    file_poster: config/assets/genre/war_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
@@ -225,7 +225,7 @@ collections:
                     
   "Popular in Western":
     summary: "Popular movies in Western"
-    #file_poster: assets/genre/movie/western_popular.jpg
+    file_poster: config/assets/genre/western_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
