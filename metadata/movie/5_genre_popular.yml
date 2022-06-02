@@ -27,7 +27,7 @@ templates:
 collections:
   "Popular in Action":
     summary: "Popular movies in Action"
-    file_poster: config/assets/genre/movie/action_popular.jpg
+    file_poster: config/assets/genre/action_popular.jpg
     schedule: daily
     template: {
                     name: popular, 
