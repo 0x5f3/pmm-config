@@ -59,7 +59,7 @@ collections:
                     }
     smart_filter:
       all:
-        rating.gte: 4
+        year.gte: 1980
       sort_by: random
       limit: 250
 
