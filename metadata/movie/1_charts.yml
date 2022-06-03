@@ -2,14 +2,12 @@ templates:
   plex:
     sort_title: "+1_<<num>>_<<collection_name>>"
     sync_mode: sync
-    collection_order: random
     collection_mode: hide
     visible_home: false
     visible_shared: false
     visible_library: false
     delete_not_scheduled: false
     cache_builders: 4
-    limit: 250
 
   trakt:
     sort_title: "+1_<<num>>_<<collection_name>>"
@@ -56,13 +54,15 @@ collections:
     file_poster: config/assets/trending/random.jpg
     schedule: daily
     template: { 
-                    name: plex, 
+                    name: plex,
                     num: 0
                     }
-    plex_all: true
-    filters:
-      rating.gte: 4
-
+    smart_filter:
+      all:
+        rating.gte: 4
+      sort_by: random
+      limit: 250
+    
   "Trending Movies":
     summary: Movies trending across the internet
     file_poster: config/assets/trending/trending.jpg
