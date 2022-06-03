@@ -117,7 +117,7 @@ collections:
                     
   "Top Rated in Artificial Intelligence":
     summary: "Top rated movies in Artificial Intelligence"
-    file_poster: config/assets/subgenre/artificial intelligence_top.jpg
+    file_poster: config/assets/subgenre/artificial-intelligence_top.jpg
     schedule: weekly(friday)
     template: {
                     name: sub_genre, 
@@ -162,7 +162,7 @@ collections:
                     
   "Top Rated in Black Comedy":
     summary: "Top rated movies in Black Comedy"
-    file_poster: config/assets/subgenre/black comedy_top.jpg
+    file_poster: config/assets/subgenre/black-comedy_top.jpg
     schedule: weekly(friday)
     template: {
                     name: sub_genre, 
@@ -897,7 +897,7 @@ collections:
                     
   "Top Rated in Prison":
     summary: "Top rated movies in Prison"
-    file_poster: config/assets/subgenre/post-prison_top.jpg
+    file_poster: config/assets/subgenre/prison_top.jpg
     schedule: weekly(friday)
     template: {
                     name: sub_genre, 
