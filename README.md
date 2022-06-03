@@ -10,6 +10,8 @@ This config will populate the following:
 - Holidays *
 - TMBD collections *
 
+( * = movies only )
+
 For more details on what each section contains: [movies](MOVIES.md) | [shows](SHOWS.md)
 <br/>
 <br/>
@@ -26,7 +28,11 @@ python plex_meta_manager.py --config config/movie.yml --collections-only --run -
 python plex_meta_manager.py --config config/show.yml --collections-only --run --ignore-schedules
 ```
 <br/>
-<br/>
 After a sucessfull run, you should have something like this:
-
-![shows]assets/_/shows.jpg)
+<br/>
+<br/>
+  
+![shows](/assets/_/shows.jpg)
+<br/>
+  
+![movies](/assets/_/movies.jpg)
