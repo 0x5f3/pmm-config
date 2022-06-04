@@ -1,0 +1,61 @@
+templates:
+  franchises:
+    sort_title: +10_<<collection_name>>
+    limit: 200
+    sync_mode: sync
+    collection_order: critic_rating.desc
+    visible_home: false
+    visible_shared: false
+    delete_not_scheduled: false
+    cache_builders: 4
+    
+collections:
+  "DC Extended Universe Movies":
+    file_poster: config/assets/franchises/dceu.jpg
+    #schedule: weekly(sunday)
+    template: {
+                    name: franchises, 
+                    franchises: "Marvel Cinematic Universe"
+                    }
+    imdb_list:  
+     - https://www.imdb.com/list/ls021326258/
+     
+  "Disney Movies":
+    file_poster: config/assets/franchises/disney.jpg
+    #schedule: weekly(sunday)
+    template: {
+                    name: franchises, 
+                    franchises: "Disney"
+                    }
+    imdb_list:  
+     - https://www.imdb.com/search/title/?companies=co0074039
+     
+  "Marvel Cinematic Universe Movies":
+    file_poster: config/assets/franchises/mcu.jpg
+    #schedule: weekly(sunday)
+    template: {
+                    name: franchises, 
+                    franchises: "Marvel Cinematic Universe"
+                    }
+    imdb_list:  
+     - https://www.imdb.com/list/ls000024621/
+     
+  "Pixar Movies":
+    file_poster: config/assets/franchises/pixar.jpg
+    #schedule: weekly(sunday)
+    template: {
+                    name: franchises, 
+                    franchises: "Pixar Movies"
+                    }
+    trakt_list:  
+     - https://trakt.tv/users/pelezi/lists/pixar-movies-and-shorts?sort=released,asc
+     
+  "Ghibli Movies":
+    file_poster: config/assets/franchises/ghibli.jpg
+    #schedule: weekly(sunday)
+    template: {
+                    name: franchises, 
+                    franchises: "Ghibli Movies"
+                    }
+    trakt_list:  
+     - https://trakt.tv/users/ccanado/lists/ghibli?sort=rank,asc
