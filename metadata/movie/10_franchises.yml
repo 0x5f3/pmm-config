@@ -1,6 +1,7 @@
 templates:
   franchises:
     sort_title: +10_<<collection_name>>
+    summary: "A timed collection of <<franchises>> movies."
     limit: 200
     sync_mode: sync
     collection_order: critic_rating.desc
@@ -45,7 +46,7 @@ collections:
     #schedule: weekly(sunday)
     template: {
                     name: franchises, 
-                    franchises: "Pixar Movies"
+                    franchises: "Pixar"
                     }
     trakt_list:  
      - https://trakt.tv/users/pelezi/lists/pixar-movies-and-shorts?sort=released,asc
@@ -55,7 +56,7 @@ collections:
     #schedule: weekly(sunday)
     template: {
                     name: franchises, 
-                    franchises: "Ghibli Movies"
+                    franchises: "Ghibli"
                     }
     trakt_list:  
      - https://trakt.tv/users/ccanado/lists/ghibli?sort=rank,asc
