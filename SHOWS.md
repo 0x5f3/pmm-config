@@ -1,4 +1,4 @@
-- 1_charts.yml
+- 1_suggested.yml
   - Random TV shows
   - Trending TV shows
   - Popular TV shows
