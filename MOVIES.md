@@ -1,4 +1,4 @@
-- 1_charts.yml
+- 1_suggested.yml
   - Random Movies
   - Trending Movies
   - Popular Movies

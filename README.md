@@ -1,6 +1,6 @@
 This config will populate the following:
 
-- Charts (random, trending, popular, top-rated, most watched)
+- Suggested (random, trending, popular, top-rated, most watched)
 - Awards
 - Year (top-rated)
 - Decades (top-rated)
