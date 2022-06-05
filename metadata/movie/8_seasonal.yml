@@ -13,7 +13,7 @@ templates:
 
 collections:
   "Valentine's Day Movies":
-    file_poster: config/assets/holiday/valentines-day.jpg
+    file_poster: config/assets/seasonal/valentines-day.jpg
     template: {
                     name: holiday, 
                     holiday: "Valentine's Day",
@@ -26,7 +26,7 @@ collections:
       - https://www.imdb.com/list/ls064427905
       
   "St. Patrick's Day Movies":
-    file_poster: config/assets/holiday/stpatricks-day.jpg
+    file_poster: config/assets/seasonal/stpatricks-day.jpg
     template: {
                     name: holiday, 
                     holiday: "St. Patrick's Day",
@@ -37,7 +37,7 @@ collections:
       - https://www.imdb.com/list/ls063934595 
       
   "Easter Movies":
-    file_poster: config/assets/holiday/easter.jpg
+    file_poster: config/assets/seasonal/easter.jpg
     template: {
                     name: holiday, 
                     holiday: "Easter",
@@ -49,7 +49,7 @@ collections:
       - https://www.imdb.com/list/ls051733651/
 
   "Halloween Movies":
-    file_poster: config/assets/holiday/halloween.jpg
+    file_poster: config/assets/seasonal/halloween.jpg
     template: {
                     name: holiday, 
                     holiday: "Halloween",
@@ -64,7 +64,7 @@ collections:
       
      
   "Christmas Movies":
-    file_poster: config/assets/holiday/christmas.jpg
+    file_poster: config/assets/seasonal/christmas.jpg
     template: {
                     name: holiday, 
                     holiday: "Christmas",
@@ -79,7 +79,7 @@ collections:
       - https://www.imdb.com/list/ls027567380
     
   "New Year's Eve Movies":
-    file_poster: config/assets/holiday/new-year.jpg
+    file_poster: config/assets/seasonal/new-year.jpg
     template: {
                     name: holiday, 
                     holiday: "New Year's Eve",
