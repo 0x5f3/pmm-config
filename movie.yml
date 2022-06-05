@@ -11,7 +11,7 @@ libraries:
     - file: config/metadata/movie/5_genre_popular.yml
     - file: config/metadata/movie/6_genre_top.yml
     - file: config/metadata/movie/7_subgenre_top.yml
-    - file: config/metadata/movie/8_holidays.yml
+    - file: config/metadata/movie/8_seasonal.yml
     - file: config/metadata/movie/9_collections.yml
 settings:
   assets_for_all: false
