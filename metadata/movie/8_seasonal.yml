@@ -1,0 +1,100 @@
+templates:
+  holiday:
+    sort_title: +8_<<collection_name>>
+    summary: "A timed collection of <<holiday>> movies and other movies that may relate to the holiday."
+    schedule: range(<<start_date>>-<<end_date>>)
+    limit: 200
+    sync_mode: sync
+    collection_order: critic_rating.desc
+    visible_home: true
+    visible_shared: true
+    delete_not_scheduled: true
+    cache_builders: 4
+
+collections:
+  "Valentine's Day Movies":
+    file_poster: config/assets/seasonal/valentines-day.jpg
+    template: {
+                    name: holiday, 
+                    holiday: "Valentine's Day",
+                    start_date: 02/13,
+                    end_date: 02/15
+                    }
+    imdb_list:
+      - https://www.imdb.com/list/ls000094398
+      - https://www.imdb.com/list/ls057783436
+      - https://www.imdb.com/list/ls064427905
+      
+  "St. Patrick's Day Movies":
+    file_poster: config/assets/seasonal/stpatricks-day.jpg
+    template: {
+                    name: holiday, 
+                    holiday: "St. Patrick's Day",
+                    start_date: 03/16,
+                    end_date: 03/18
+                    }
+    imdb_list:
+      - https://www.imdb.com/list/ls063934595 
+      
+  "Easter Movies":
+    file_poster: config/assets/seasonal/easter.jpg
+    template: {
+                    name: holiday, 
+                    holiday: "Easter",
+                    start_date: 03/22,
+                    end_date: 04/25
+                    }
+    imdb_list:
+      - https://www.imdb.com/list/ls062665509/
+      - https://www.imdb.com/list/ls051733651/
+
+  "Halloween Movies":
+    file_poster: config/assets/seasonal/halloween.jpg
+    template: {
+                    name: holiday, 
+                    holiday: "Halloween",
+                    start_date: 10/29,
+                    end_date: 10/31
+                    }
+    imdb_list:
+      - https://www.imdb.com/list/ls023118929
+      - https://www.imdb.com/list/ls000099714
+      - https://www.imdb.com/list/ls000058693
+      - https://www.imdb.com/search/title/?genres=horror&keywords=haunted-house&sort=moviemeter,asc
+  
+  "Thanksgiving Movies":
+    file_poster: config/assets/seasonal/thanksgiving.jpg
+    template: {
+                    name: holiday, 
+                    holiday: "Thanksgiving",
+                    start_date: 11/22,
+                    end_date: 11/25
+                    }
+    imdb_list:
+      - https://www.imdb.com/list/ls000835734/
+      - https://www.imdb.com/list/ls091597850/
+     
+  "Christmas Movies":
+    file_poster: config/assets/seasonal/christmas.jpg
+    template: {
+                    name: holiday, 
+                    holiday: "Christmas",
+                    start_date: 12/01,
+                    end_date: 12/31
+                    }
+    letterboxd_list: https://letterboxd.com/0xf5e3/list/theme-christmas/
+    imdb_list: 
+      - https://www.imdb.com/list/ls000096828
+      - https://www.imdb.com/list/ls097394442
+      - https://www.imdb.com/list/ls068976997
+      - https://www.imdb.com/list/ls027567380
+    
+  "New Year's Eve Movies":
+    file_poster: config/assets/seasonal/new-year.jpg
+    template: {
+                    name: holiday, 
+                    holiday: "New Year's Eve",
+                    start_date: 12/26,
+                    end_date: 01/02
+                    }
+    imdb_list: https://www.imdb.com/list/ls066838460
