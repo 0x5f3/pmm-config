@@ -4,7 +4,7 @@ libraries:
     operations:
       delete_unmanaged_collections: true
     metadata_path:
-    - file: config/metadata/movie/1_charts.yml
+    - file: config/metadata/movie/1_suggested.yml
     - file: config/metadata/movie/2_awards.yml
     - file: config/metadata/movie/3_year_top.yml
     - file: config/metadata/movie/4_decades_top.yml

@@ -51,7 +51,7 @@ templates:
 collections:
   "Random Movies":
     summary: Random selection of movies
-    file_poster: config/assets/trending/random.jpg
+    file_poster: config/assets/suggested/random.jpg
     schedule: daily
     template: { 
                     name: plex,
@@ -65,7 +65,7 @@ collections:
     
   "Trending Movies":
     summary: Movies trending across the internet
-    file_poster: config/assets/trending/trending.jpg
+    file_poster: config/assets/suggested/trending.jpg
     #radarr_add_missing: true
     schedule: daily
     template: { 
@@ -79,7 +79,7 @@ collections:
       
   "Popular Movies":
     summary: Popular movies across the internet
-    file_poster: config/assets/trending/popular.jpg
+    file_poster: config/assets/suggested/popular.jpg
     schedule: daily
     template: { 
                     name: imdb_popular, 
@@ -91,7 +91,7 @@ collections:
     
   "Top Rated Movies":
     summary: Top rated movies across the internet
-    file_poster: config/assets/trending/top-rated.jpg
+    file_poster: config/assets/suggested/top-rated.jpg
     schedule: daily
     template: { 
                     name: imdb_top, 
@@ -105,7 +105,7 @@ collections:
 
   "Most Watched Daily":
     summary: Movies trending across the internet
-    file_poster: config/assets/trending/most-watched-daily.jpg
+    file_poster: config/assets/suggested/most-watched-daily.jpg
     schedule: daily
     template: { 
                     name: trakt, 
@@ -118,7 +118,7 @@ collections:
     
   "Most Watched Weekly":
     summary: Movies trending across the internet
-    file_poster: config/assets/trending/most-watched-weekly.jpg
+    file_poster: config/assets/suggested/most-watched-weekly.jpg
     schedule: daily
     template: { 
                     name: trakt, 
@@ -131,7 +131,7 @@ collections:
     
   "Most Watched Monthly":
     summary: Movies trending across the internet
-    file_poster: config/assets/trending/most-watched-monthly.jpg
+    file_poster: config/assets/suggested/most-watched-monthly.jpg
     schedule: weekly(sunday)
     template: { 
                     name: trakt, 
@@ -144,7 +144,7 @@ collections:
     
   "Most Watched Yearly":
     summary: Movies trending across the internet
-    file_poster: config/assets/trending/most-watched-yearly.jpg
+    file_poster: config/assets/suggested/most-watched-yearly.jpg
     schedule: weekly(sunday)
     template: { 
                     name: trakt, 
