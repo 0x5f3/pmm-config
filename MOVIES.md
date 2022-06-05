@@ -176,7 +176,7 @@
   - Top Rated in  World War
   - Top Rated in  Zombies
 
-- 8_holidays.yml
+- 8_seasonal.yml
   - Valentine's Day Movies
   - Halloween Movies
   - Christmas Movies

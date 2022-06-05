@@ -7,7 +7,7 @@ This config will populate the following:
 - Genre (popular)
 - Genre (top-rated)
 - Sub-genre (top-rated) *
-- Holidays *
+- Seasonal *
 - TMBD collections *
 
 ( * = movies only )
