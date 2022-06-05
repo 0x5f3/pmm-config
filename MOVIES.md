@@ -177,10 +177,13 @@
   - Top Rated in  Zombies
 
 - 8_seasonal.yml
-  - Valentine's Day Movies
-  - Halloween Movies
-  - Christmas Movies
-  - New Year's Eve Movies
+  - Valentine's Day Movies (02/13-02/15)
+  - St. Patrick's Day Movies (03/16-03-18)
+  - Easter Moviews (03/22-04/25)
+  - Halloween Movies (10/29-10/31)
+  - Thanksgiving Movies (11/22-11/25)
+  - Christmas Movies (12/01-12/31)
+  - New Year's Eve Movies (12/26-01-02)
 
 - 9_collections.yml
   - TMDb Collections

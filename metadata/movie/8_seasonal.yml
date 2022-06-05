@@ -17,8 +17,8 @@ collections:
     template: {
                     name: holiday, 
                     holiday: "Valentine's Day",
-                    start_date: 02/01,
-                    end_date: 02/29
+                    start_date: 02/13,
+                    end_date: 02/15
                     }
     imdb_list:
       - https://www.imdb.com/list/ls000094398
@@ -30,7 +30,7 @@ collections:
     template: {
                     name: holiday, 
                     holiday: "St. Patrick's Day",
-                    start_date: 03/01,
+                    start_date: 03/16,
                     end_date: 03/18
                     }
     imdb_list:
@@ -61,7 +61,18 @@ collections:
       - https://www.imdb.com/list/ls000099714
       - https://www.imdb.com/list/ls000058693
       - https://www.imdb.com/search/title/?genres=horror&keywords=haunted-house&sort=moviemeter,asc
-      
+  
+  "Thanksgiving Movies":
+    file_poster: config/assets/seasonal/thanksgiving.jpg
+    template: {
+                    name: holiday, 
+                    holiday: "Thanksgiving",
+                    start_date: 11/22,
+                    end_date: 11/25
+                    }
+    imdb_list:
+      - https://www.imdb.com/list/ls000835734/
+      - https://www.imdb.com/list/ls091597850/
      
   "Christmas Movies":
     file_poster: config/assets/seasonal/christmas.jpg
