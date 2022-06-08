@@ -6,10 +6,14 @@ libraries:
     metadata_path:
     - file: config/metadata/show/1_suggested.yml
     - file: config/metadata/show/2_awards.yml
+      schedule: weekly(monday)
     - file: config/metadata/show/3_year_top.yml
+      schedule: weekly(wednesday)
     - file: config/metadata/show/4_decades_top.yml
+      schedule: weekly(thursday)
     - file: config/metadata/show/5_genre_popular.yml
     - file: config/metadata/show/6_genre_top.yml
+      schedule: weekly(saturday)
 settings:
   assets_for_all: false
   asset_depth: 0
