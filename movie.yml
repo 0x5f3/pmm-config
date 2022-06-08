@@ -6,13 +6,19 @@ libraries:
     metadata_path:
     - file: config/metadata/movie/1_suggested.yml
     - file: config/metadata/movie/2_awards.yml
+      schedule: weekly(monday)
     - file: config/metadata/movie/3_year_top.yml
+      schedule: weekly(tuesday)
     - file: config/metadata/movie/4_decades_top.yml
+      schedule: weekly(wednesday)
     - file: config/metadata/movie/5_genre_popular.yml
     - file: config/metadata/movie/6_genre_top.yml
+      schedule: weekly(thursday)
     - file: config/metadata/movie/7_subgenre_top.yml
+      schedule: weekly(friday)
     - file: config/metadata/movie/8_seasonal.yml
     - file: config/metadata/movie/9_collections.yml
+      schedule: weekly(saturday)
 settings:
   assets_for_all: false
   asset_depth: 0
