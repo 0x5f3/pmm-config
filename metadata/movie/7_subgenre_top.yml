@@ -1,17 +1,3 @@
-## 
-##  "":
-##    template: {
-##                    name: sub_genre, 
-##                    keywords: "", 
-##                    genres: "",
-##                    title_type: "feature,tv_movie", 
-##                    user_rating: "5.0,10.0", 
-##                    votes: "10000,", 
-##                    languages: "en",
-##                    trakt_list: ""
-##                    }
-##
-
 templates:
   sub_genre:
     optional:
@@ -189,6 +175,21 @@ collections:
                     languages: "en",
                     letterboxd_list: "theme-boxing",
                     imdb_extra_1: "https://www.imdb.com/search/title/?title_type=feature,tv_movie&user_rating=2.0,10.0&num_votes=100,&keywords=boxing-champion&languages=en&sort=user_rating,desc"
+                    }
+                    
+  "Top Rated in Bugs":
+    summary: "Top rated movies in Bugs"
+    file_poster: config/assets/subgenre/bugs_top.jpg
+    schedule: weekly(friday)
+    template: {
+                    name: sub_genre, 
+                    keywords: "giant-insect", 
+                    genres: "",
+                    title_type: "feature,tv_movie", 
+                    user_rating: "2.0,10.0", 
+                    votes: "100,", 
+                    languages: "en",
+                    letterboxd_list: "theme-bugs",
                     }
                     
   "Top Rated in Cannibals":
