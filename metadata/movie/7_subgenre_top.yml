@@ -37,7 +37,7 @@ templates:
       - <<imdb_extra_3>>
       - <<imdb_extra_4>>
       - <<imdb_extra_5>>   
-    letterboxd_list: https://letterboxd.com/0xf5e3/list/<<letterboxd_list>>/
+    letterboxd_list: https://letterboxd.com/ediblehedgehog/list/<<letterboxd_list>>/
 
 collections:
   "Top Rated in Absurdism":
