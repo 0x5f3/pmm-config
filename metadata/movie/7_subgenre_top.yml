@@ -757,6 +757,21 @@ collections:
                     letterboxd_list: "theme-mythology"
                     }
                     
+  "Top Rated in Naval":
+    summary: "Top rated movies in Naval"
+    file_poster: config/assets/subgenre/naval_top.jpg
+    schedule: weekly(friday)
+    template: {
+                    name: sub_genre, 
+                    keywords: "naval-battle", 
+                    genres: "",
+                    title_type: "feature,tv_movie", 
+                    user_rating: "2.0,10.0", 
+                    votes: "1000,", 
+                    languages: "en",
+                    letterboxd_list: "theme-naval"
+                    }                    
+                    
   "Top Rated in Ninjas":
     summary: "Top rated movies in Ninjas"
     file_poster: config/assets/subgenre/ninjas_top.jpg
