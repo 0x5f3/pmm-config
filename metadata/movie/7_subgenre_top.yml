@@ -266,6 +266,21 @@ collections:
                     languages: "en",
                     letterboxd_list: "theme-con-artists"
                     }
+                    
+  "Top Rated in Cop":
+    summary: "Top rated movies in Cop"
+    file_poster: config/assets/subgenre/cop_top.jpg
+    schedule: weekly(friday)
+    template: {
+                    name: sub_genre, 
+                    keywords: "detective,police-car,police-detective,police-officer,police-station,police", 
+                    genres: "",
+                    title_type: "feature,tv_movie", 
+                    user_rating: "2.0,10.0", 
+                    votes: "1000,", 
+                    languages: "en",
+                    letterboxd_list: "theme-cop"
+                    }
 
   "Top Rated in Costume Drama":
     summary: "Top rated movies in Costume Drama"
