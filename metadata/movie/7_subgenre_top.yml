@@ -599,6 +599,21 @@ collections:
                     imdb_extra_1: "https://www.imdb.com/search/title/?title_type=feature,tv_movie&user_rating=5.0,10.0&num_votes=10000,&keywords=hostage,kidnapping&languages=en&sort=user_rating,desc",
                     }
                     
+  "Top Rated in Hustle":
+    summary: "Top rated movies in Hustle"
+    file_poster: config/assets/subgenre/hustle_top.jpg
+    schedule: weekly(friday)
+    template: {
+                    name: sub_genre, 
+                    keywords: "hustler,gambling", 
+                    genres: "",
+                    title_type: "feature,tv_movie", 
+                    user_rating: "5.0,10.0", 
+                    votes: "10000,", 
+                    languages: "en",
+                    letterboxd_list: "theme-hustle"
+                    }
+                    
   "Top Rated in Martial-Arts":
     summary: "Top rated movies in Martial-Arts"
     file_poster: config/assets/subgenre/martial-arts_top.jpg
